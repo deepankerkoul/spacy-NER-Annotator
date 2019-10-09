@@ -1,0 +1,1 @@
+This tool aims to provide an easy, human-friendly way to annotate your texts for Spacy NER training. THis should help reduce the errors in creating training data. Moreover, this can help annotate a large corpus of data very quicky while, obviously, reducing errors in transcibing the sub-string indexes.
