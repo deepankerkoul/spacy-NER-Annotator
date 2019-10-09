@@ -1,4 +1,5 @@
 # spacy-NER-Annotator
+[Home](./docs/home.md)
 A simple annotator tool for creating Training Data for Spacy NER (Name
 Entity Recognition) model.
 
